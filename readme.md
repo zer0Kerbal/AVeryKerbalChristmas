@@ -14,7 +14,7 @@ updated: 04 Oct 2022 -->
 
 # A Very Kerbal Christmas (AVKC)
 
-*blurb*
+A holiday themed parts addon for Kerbal Space Program.
 
 
 
