@@ -9,9 +9,6 @@ updated: 04 Oct 2022 -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]  
 [![Pages][MOD:pages:shd]][MOD:pages]
 
-![Code][CODE:shd]
-
-
 # A Very Kerbal Christmas (AVKC)
 
 A holiday themed parts addon for Kerbal Space Program.
