@@ -18,13 +18,20 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) holiday themed parts
+This add-on adds nine (3) holiday themed parts
 
 ---
 
-* SurveyStake
+* kringle
+* skid
+* sledcargo
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/docs/thumbs/kringlexmas_icon.png" alt="kringlexmas_icon" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/docs/thumbs/skidxmas_icon.png" alt="skidxmas_icon" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/docs/thumbs/sledcargo_icon.png" alt="sledcargo_icon" width="25%" height="25%" />
+
 
 ---
 
