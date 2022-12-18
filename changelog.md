@@ -10,6 +10,26 @@
 | spacedock  | (https://spacedock.info/mod/3174)                                 |
 | ckan       | AVeryKerbalChristmas                                              |
 
+## Version 1.0.99.0-adoption - `<Thank you Nazari1382>` edition
+
+* Released
+  * 18 Dec 2014
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Convert textures
+  * <kringle.png> 134kb --> <kringle.dds> 342kb
+  * <metalsoft.png> 49kb --> <metalsoft.dds> 86kb
+  * <metalwheel.png> 37kb --> <metalwheel.dds> 86kb
+  * <winterski.png> 147kb --> <winterski.dds> 342kb
+  * 364kb --> 853kb
+
+### Status 1.0.99.0
+
+* Issues
+
+---
+
 ## Version 1.0.0.0-release - `<Christmases' Past>` edition
 
 * Released
