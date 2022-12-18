@@ -192,7 +192,7 @@ parts, config
 <!-- links to add-ons/mods -->
 
 [AVKC]: https://forum.kerbalspaceprogram.com/index.php?/topic/211089 "A Very Kerbal Christmas (AVKC)"
-[CD]: https://github.com/zer0Kerbal/Christmas Dres "Christmas Dres (CD)"
+[CD]: https://github.com/zer0Kerbal/ChristmasDres "Christmas Dres (CD)"
 [KKP]: https://github.com/zer0Kerbal/KerbalKristmasPack "Kerbal Kristmas Pack"
 [KSP]: https://github.com/zer0Kerbal/KerbobulusSpaceTechnologies "Kerbobulus Space Technologies"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "KMAS by Lunatic Aeronautics (KMAS)"
@@ -207,21 +207,11 @@ parts, config
 [PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
 [REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "Eterno-Rest 2000 Space Coffin (REST)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[ifs]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
-[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
 [fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kspie]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*/ "KSP Interstellar Extended (KSPIE)"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
