@@ -18,6 +18,7 @@
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * case of body swapping: kringle <--> sled
+* add lots of nodes, and correct existing
 * Convert textures
   * <kringle.png> 134kb --> <kringle.dds> 342kb
   * <metalsoft.png> 49kb --> <metalsoft.dds> 86kb
