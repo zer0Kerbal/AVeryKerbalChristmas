@@ -22,12 +22,18 @@ updated: 15 May 2022
 
 * Table of Contents
   * [License](#license)
+  * [Original License](#original-license)
   * [Forum Post #1](#forum-i)
   * [Forum Post #2](#forum-ii)
 
 ### License
 
 [License](./LegalMumboJumbo/License.md)
+[top](#legal-mumbo-jumbo)
+
+### Original License
+
+[License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
 ### Forum I

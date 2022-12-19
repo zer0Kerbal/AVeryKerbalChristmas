@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 # A Very Kerbal Christmas (AVKC)
 
-A holiday themed parts addon for Kerbal Space Program.
+Explosive Holiday Fun! A holiday themed parts addon for Kerbal Space Program.
 
 
 
@@ -20,6 +20,10 @@ A holiday themed parts addon for Kerbal Space Program.
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/img/HeroLogo_1920x1920.png" alt="A Very Kerbal Christmas Hero" width="50%" height="50%">
+
+### Forward by [Nazari1382][Nazari1382]
+
+> Featured in this video [below] last year by Robbaz, the Kringle-5000 Orbital Delivery Platform has returned to production just in time for you to make holiday deliveries to the other side of the planet... or solar system. Includes low friction skids and cargo decoupling system.
 
 ### See more
 
@@ -30,13 +34,19 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
+### YouTube video by [`Robbaz `](https://www.youtube.com/@Robbaz)
+
+*NSFW (language)*
+
+[![Ksp - Saving Christmas - Santa's Sleigh](https://img.youtube.com/vi/wcVdD0DvPNY/0.jpg)](https://youtu.be/wcVdD0DvPNY)
+
 ### Help Wanted
 
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
 > * Converting from FireSpitter to Stock and/or KSPWheel  
-> * Model updates to Unity 2019
+> * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -62,6 +72,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Dependencies
 
+* [Kerbal Materials Corp (KMC)][KMC]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Recommends
@@ -89,8 +100,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Supports
 
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [TweakScale (TWK)][twk]
+* [Firespitter][fs] for fully functioning skies. may invoke bouts of dizziness.
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
@@ -152,8 +162,6 @@ parts, config
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
@@ -194,8 +202,9 @@ parts, config
 [AVKC]: https://forum.kerbalspaceprogram.com/index.php?/topic/211089 "A Very Kerbal Christmas (AVKC)"
 [CD]: https://github.com/zer0Kerbal/ChristmasDres "Christmas Dres (CD)"
 [KKP]: https://github.com/zer0Kerbal/KerbalKristmasPack "Kerbal Kristmas Pack"
-[KSP]: https://github.com/zer0Kerbal/KerbobulusSpaceTechnologies "Kerbobulus Space Technologies"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "KMAS by Lunatic Aeronautics (KMAS)"
+[KMC]: https://github.com/zer0Kerbal/KerbalMaterialsCorp "Kerbal Materials Corp (KMC)"
+[KSP]: https://github.com/zer0Kerbal/KerbobulusSpaceTechnologies "Kerbobulus Space Technologies"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Sleigh (Rover) Anti Gravity System (SAGS)"
 
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom! (BOOM)"
