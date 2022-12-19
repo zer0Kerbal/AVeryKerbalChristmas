@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 # A Very Kerbal Christmas (AVKC)
 
-A holiday themed parts addon for Kerbal Space Program.
+Explosive Holiday Fun! A holiday themed parts addon for Kerbal Space Program.
 
 
 
@@ -21,6 +21,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/img/HeroLogo_1920x1920.png" alt="A Very Kerbal Christmas Hero" width="50%" height="50%">
 
+### Forward by [Nazari1382][Nazari1382]
+
+> Featured in this video [below] last year by Robbaz, the Kringle-5000 Orbital Delivery Platform has returned to production just in time for you to make holiday deliveries to the other side of the planet... or solar system. Includes low friction skids and cargo decoupling system.
+
 ### See more
 
 >* [GitHub Pages][MOD:pages]
@@ -29,6 +33,12 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
+
+### YouTube video by [`Robbaz `](https://www.youtube.com/@Robbaz)
+
+*NSFW (language)*
+
+[![Ksp - Saving Christmas - Santa's Sleigh](https://img.youtube.com/vi/wcVdD0DvPNY/0.jpg)](https://youtu.be/wcVdD0DvPNY)
 
 ### Help Wanted
 
@@ -89,8 +99,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Supports
 
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [TweakScale (TWK)][twk]
+* [Firespitter][fs] for fully functioning skies. may invoke bouts of dizziness.
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
