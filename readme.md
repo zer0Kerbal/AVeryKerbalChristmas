@@ -46,7 +46,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * Variant Textures
 > * Converting from FireSpitter to Stock and/or KSPWheel  
-> * Model updates to Unity 2019
+> * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -72,6 +72,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Dependencies
 
+* [Kerbal Materials Corp (KMC)][KMC]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Recommends
@@ -161,8 +162,6 @@ parts, config
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AVeryKerbalChristmas/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
@@ -203,8 +202,9 @@ parts, config
 [AVKC]: https://forum.kerbalspaceprogram.com/index.php?/topic/211089 "A Very Kerbal Christmas (AVKC)"
 [CD]: https://github.com/zer0Kerbal/ChristmasDres "Christmas Dres (CD)"
 [KKP]: https://github.com/zer0Kerbal/KerbalKristmasPack "Kerbal Kristmas Pack"
-[KSP]: https://github.com/zer0Kerbal/KerbobulusSpaceTechnologies "Kerbobulus Space Technologies"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "KMAS by Lunatic Aeronautics (KMAS)"
+[KMC]: https://github.com/zer0Kerbal/KerbalMaterialsCorp "Kerbal Materials Corp (KMC)"
+[KSP]: https://github.com/zer0Kerbal/KerbobulusSpaceTechnologies "Kerbobulus Space Technologies"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Sleigh (Rover) Anti Gravity System (SAGS)"
 
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom! (BOOM)"
